@@ -1,4 +1,4 @@
-FROM bradyt/docker-hledger-install
+FROM bradyt/docker-hledger-build
 
 FROM ubuntu:16.04
 
